@@ -12,7 +12,15 @@ Seems they also have a host of people in the dominican republic, perhaps this is
 
 Harrassing phone calls from spoofed phone numbers, often times impersonating numbers like the FBI, Police or your local area code.
 
-# Email Contact
+> **NOTE**: DO NOT OPEN OR ACCEPT EMAILS SENT TO YOU`
+
+## Various Data
+
+This section links to other various communications I have received by them and affialiate agencies
+
+- [Raw Email w/ Headers](./RAW_EMAIL.md)
+
+## Email Contact
 
 https://ficoforums.myfico.com/t5/General-Credit-Topics/E-mail-Contact-for-CCS-Credit-Collection-Services-Needham-MA/td-p/65507
 
