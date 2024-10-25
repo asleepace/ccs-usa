@@ -1,3 +1,8 @@
+# Cease & Decist Template
+
+The following template is not legal advice, nor should be considered as such, this is for bookkeepping purposes only.
+
+```txt
 [YOUR FULL NAME]
 [YOUR ADDRESS]
 [CITY, STATE ZIP]
@@ -31,3 +36,30 @@ Sincerely,
 
 CC: Federal Trade Commission
     Consumer Financial Protection Bureau
+```
+
+### How to CC the FTC and CFPB
+
+USPS Certified Mail with Return Receipt Requested
+
+- Cost around $7-9 total
+- Keep tracking number
+- Keep your receipt
+- Take photos/scans of everything
+
+### FTC Address
+
+```
+Federal Trade Commission
+Consumer Response Center
+600 Pennsylvania Avenue, NW
+Washington, DC 20580
+```
+
+### CFBP Copy
+
+```
+Consumer Financial Protection Bureau
+P.O. Box 2900
+Clinton, IA 52733-2900
+```
