@@ -2,6 +2,14 @@
 
 The following email was sent to me by a CCS service representitive, it appears the attempt to hide the outbound address and also have a sneaky terms of service on the link.
 
+### Useful Data
+
+```
+1. Started at: Intranet (osphonedialer.ccsusa.com [10.128.73.57])
+2. Through: mail.privatenotice.com
+3. To: Yahoo Mail servers
+```
+
 ### RAW Email Headers
 
 ```
