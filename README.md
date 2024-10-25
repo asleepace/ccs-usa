@@ -8,7 +8,7 @@ Publicly available information on the debt collector service CCS such as who wor
 
 Seems they also have a host of people in the dominican republic, perhaps this is how they get around the laws.
 
-# Their tactics?
+# Their Tactics?
 
 Harrassing phone calls from spoofed phone numbers, often times impersonating numbers like the FBI, Police or your local area code.
 
@@ -29,7 +29,8 @@ Email: pcoyle@ccsusa.com
 
 ## Interesting Articles
 
-https://money.com/how-to-remove-ccs-offices-from-your-credit-report/
+- [How to remove CCS offices from your credit report?](https://money.com/how-to-remove-ccs-offices-from-your-credit-report/)
+- [BBB: CCS Scam](https://www.bbb.org/scamtracker/lookupscam/832869)
 
 ## Who are they?
 
@@ -40,3 +41,18 @@ This is how they describe themselves on LinkedIn
 
 > Providing business process outsourcing solutions to America's leading brands for over 50 years and counting!
 https://www.linkedin.com/company/the-ccs-companies/
+
+## File a Complaint?
+
+- [Better Business Bureau](https://www.bbb.org/us/ma/norwood/profile/collections-agencies/the-ccs-companies-0021-15265)
+
+
+## Possibly Related?
+
+The data below has not been verified nor should it be considered accurate or up-to-date.
+
+| Data      | Souce      | type      |
+|-----------|------------|-----------|
+| `(314) 934-2508` and `(844) 342-1629` | [BBB](https://www.bbb.org/scamtracker/lookupscam/832869) | `phone` |
+|
+
