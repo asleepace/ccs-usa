@@ -1,4 +1,5 @@
-# ccs-usa
+# Credit Collection Services (CCS)
+
 Publicly available information on the debt collector service CCS such as who works there, how to mitigate phone harassment, legal options, and more. 
 
 - https://www.ccsusa.com/ (website)
@@ -6,6 +7,10 @@ Publicly available information on the debt collector service CCS such as who wor
 - https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=DB7B3459593528CD2AB20F3D8CB2B13B (Job Page)
 
 Seems they also have a host of people in the dominican republic, perhaps this is how they get around the laws.
+
+# Their tactics?
+
+Harrassing phone calls from spoofed phone numbers, often times impersonating numbers like the FBI, Police or your local area code.
 
 # Email Contact
 
