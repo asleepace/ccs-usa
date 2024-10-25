@@ -12,7 +12,7 @@ Seems they also have a host of people in the dominican republic, perhaps this is
 
 Harrassing phone calls from spoofed phone numbers, often times impersonating numbers like the FBI, Police or your local area code.
 
-> **NOTE**: DO NOT OPEN OR ACCEPT EMAILS SENT TO YOU`
+> **NOTE**: DO NOT ACCEPT THE TERMS OF SERVICE ON EMAILS SENT TO YOU, IT IS A TRICK
 
 ## Various Data
 
